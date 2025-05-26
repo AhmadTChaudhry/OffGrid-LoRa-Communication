@@ -34,7 +34,7 @@ o   U8g2 (olikraus/U8g2)
 
 o   ArduinoJson (bblanchon/ArduinoJson)
 
-## 6.3. Configuration
+## 1.3. Configuration
 
 ·      **Board Selection (in platformio.ini file):**
 
