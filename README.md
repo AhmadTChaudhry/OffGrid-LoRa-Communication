@@ -1,4 +1,6 @@
-# **1.**  **User Manual**
+# **Secure OffGrid LoRa Communication**
+
+## **1.**  **User Manual**
 
 ## 1.1. Hardware Requirements
 
